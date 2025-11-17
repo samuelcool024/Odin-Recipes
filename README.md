@@ -1,2 +1,3 @@
 # Odin-Recipes
-for learning purpose
+For learning purpose.
+This simple wed dev recipe project is aimed towards achieveing a  better skill set in web dev. once completed.
